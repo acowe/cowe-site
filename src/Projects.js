@@ -37,7 +37,7 @@ function Projects() {
                     <h3>Turbulent Combustion Visualization</h3>
                     <p> For my final project in Information Visualization (ECS272), a fellow classmate and I were tasked with building a visualization system
                         for visualizing a large volumetric turbulent combustion dataset to effectively show important spatial statistical features and behavior of a premixed flame.
-                        Utilizing Tyson Neuroth's <a href={"https://arxiv.org/abs/2208.06970"}>voronoi decomposition method</a>  as a base, we devised, then developed a web-based system that would allow users to select 2D cross sections of the data volume,
+                        Utilizing Tyson Neuroth's <a href={"https://arxiv.org/abs/2208.06970"}>voronoi decomposition method</a> as a base, we devised, then developed a web-based system that would allow users to select 2D cross sections of the data volume,
                         then hierarchically navigate the slice data by levels of visual abstraction (layer, component, cell).
                         At each level, aggregate statistics for selected cross-section elements would be displayed in the side view with the scatter plot and bar chart, allowing for focused data analysis and directed navigation.
                         In building such visualization system, we aimed to promote dataset exploration that is intuitive, accessible, and scalable for combustion scientists and analysts.
