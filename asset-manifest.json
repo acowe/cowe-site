@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.e89a2d77.css",
-    "main.js": "/portfolio/static/js/main.9f432d1d.js",
+    "main.js": "/portfolio/static/js/main.f84b1723.js",
     "reactPlayerYouTube.js": "/portfolio/static/js/reactPlayerYouTube.b10dd420.chunk.js",
     "reactPlayerSoundCloud.js": "/portfolio/static/js/reactPlayerSoundCloud.51c78654.chunk.js",
     "reactPlayerVimeo.js": "/portfolio/static/js/reactPlayerVimeo.2cc3c7ce.chunk.js",
@@ -21,7 +21,7 @@
     "static/media/friendly_shadows.jpg": "/portfolio/static/media/friendly_shadows.580ff0f88bdc9c12b3e8.jpg",
     "static/media/cybervsr_photo.png": "/portfolio/static/media/cybervsr_photo.b9e50e26953ece8f4865.png",
     "static/media/NCE_poster.jpg": "/portfolio/static/media/NCE_poster.0c77e5e349d422a16a34.jpg",
-    "static/media/Da_Lynel_Link.jpg": "/portfolio/static/media/Da_Lynel_Link.eee4d0791311fabf7859.jpg",
+    "static/media/Da_Lynel_Link.jpg": "/portfolio/static/media/Da_Lynel_Link.3e7e7cd527826bc476ff.jpg",
     "static/media/the_bear.png": "/portfolio/static/media/the_bear.1ae2a86140112991659d.png",
     "static/media/DC_Fanart.jpg": "/portfolio/static/media/DC_Fanart.b51aef95eb596dfa1531.jpg",
     "static/media/NCE_poster.pdf": "/portfolio/static/media/NCE_poster.f2b933b5d734035a9d51.pdf",
@@ -52,7 +52,7 @@
     "static/media/sparse-matrix.png": "/portfolio/static/media/sparse-matrix.7b9c65dab540098749a5.png",
     "index.html": "/portfolio/index.html",
     "main.e89a2d77.css.map": "/portfolio/static/css/main.e89a2d77.css.map",
-    "main.9f432d1d.js.map": "/portfolio/static/js/main.9f432d1d.js.map",
+    "main.f84b1723.js.map": "/portfolio/static/js/main.f84b1723.js.map",
     "reactPlayerYouTube.b10dd420.chunk.js.map": "/portfolio/static/js/reactPlayerYouTube.b10dd420.chunk.js.map",
     "reactPlayerSoundCloud.51c78654.chunk.js.map": "/portfolio/static/js/reactPlayerSoundCloud.51c78654.chunk.js.map",
     "reactPlayerVimeo.2cc3c7ce.chunk.js.map": "/portfolio/static/js/reactPlayerVimeo.2cc3c7ce.chunk.js.map",
@@ -70,6 +70,6 @@
   },
   "entrypoints": [
     "static/css/main.e89a2d77.css",
-    "static/js/main.9f432d1d.js"
+    "static/js/main.f84b1723.js"
   ]
 }
