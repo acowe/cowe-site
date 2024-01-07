@@ -7,6 +7,7 @@ import myFace2 from "./my_face.jpg";
 
 const images = require.context('./illustrations', true);
 const imageList = images.keys().map(image => images(image));
+
 function Illustrations(){
     console.log(imageList)
     useEffect(() => {
