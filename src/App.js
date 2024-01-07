@@ -22,7 +22,6 @@ function App() {
                 <Route path="/algomations" element={<Algomations/>} />
                 <Route path="/illustrations" element={<Illustrations/>} />
                 <Route path="*" element={<Error404/>} />
-
             </Routes>
         </Container>
     </div>
