@@ -55,7 +55,7 @@ function NavBar() {
                         </Col>
                         <Col>
                             <Link id={"illustrations"} to={"/illustrations"} className={"nav-custom tab"}>
-                                Illustrations
+                                Gallery
                             </Link>
                         </Col>
                     </Row>

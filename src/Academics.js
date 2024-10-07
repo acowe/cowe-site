@@ -3,6 +3,7 @@ import {Row,Col,Container} from "react-bootstrap";
 import sparseMat from "./sparse-matrix.png"
 import iscaLogo from "./ISCA_2023.png"
 import vsrPic from "./cybervsr_photo.png"
+import vidiLogo from "./vidi_logo.png"
 
 
 function Academics(){
@@ -57,6 +58,26 @@ function Academics(){
             </Row>
             <Row className={"justify-content-center mb-3"}>
                 <Col className={"col-6"}>
+                    <h4>Visualization and Interaction Design Innovation (VIDi) Labs Research at UC Davis</h4>
+                    <h6 className={""}>Davis, CA</h6>
+                </Col>
+                <Col className={"col-4 text-end"}>
+                    <div className={"fs-5"}>September 2023 - Current</div>
+                </Col>
+            </Row>
+            <Row className={"justify-content-center mb-4"}>
+                <Col className={"col-6"}>
+                    <p>I am currently conducting research in scientific visualization as a graduate student researcher. 
+                        Under the guidance of students Qi Wu, Tyson Neuroth, and Professor Kwan-Liu Ma of UC Davis, along with Martin Rieth and Jacqueline Chen of Sandia National Laboratories, I aim to develop an interactive visualization system for multiscale analysis of turbulent combustion data.
+                    </p>
+                    <p><a href={"https://vidi.cs.ucdavis.edu/"}>VIDI Labs</a></p>
+                </Col>
+                <Col className={"col-4 text-end"}>
+                    <img src={vidiLogo} className="img-fluid"/>
+                </Col>
+            </Row>
+            <Row className={"justify-content-center mb-3"}>
+                <Col className={"col-6"}>
                     <h4>Architectural and Algorithmic Acceleration Lab (ARCALA) Research at Pomona College</h4>
                     <h6 className={""}>Claremont, CA</h6>
                 </Col>
@@ -82,7 +103,7 @@ function Academics(){
                             <a href={"https://github.com/Arcala-Research-Lab"}>ARCALA GitHub</a>
                         </li>
                         <li>
-                            <a href={"https://drive.google.com/file/d/1qARpV5bq5lHYargQTcjDltOVedSHyYpW/view"}>Publication</a> (ACM link + DOI forthcoming)
+                            <a href={"https://dl.acm.org/doi/10.1145/3605507.3610630"}>Publication</a>
                         </li>
 
                     </ul>
@@ -138,7 +159,7 @@ function Academics(){
                         Visualization with Experiential Learning to Encourage Participation
                         and Research in Computer Architecture. In <i>Proceedings of Workshop
                         on Computer Architecture Education (WCAE ’23)</i>. ACM,
-                        New York, NY, USA, 9 pages. (DOI pending) </div>
+                        New York, NY, USA, 9 pages. (DOI: 10.1145/3605507.3610630) </div>
                 </Col>
             </Row>
 

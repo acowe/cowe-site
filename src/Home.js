@@ -52,7 +52,6 @@ function Home(){
                     </div>
                 </Col>
                 <Col className={"col-5 text-end"}>
-                    <img src={myFace2} alt="" className="img-fluid" style={{height: "150px"}}/>
                 </Col>
             </Row>
 
